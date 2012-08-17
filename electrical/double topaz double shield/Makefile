@@ -12,9 +12,9 @@
 #
 
 #Project Name
-NAME = headstagebreakout
+NAME = concept
 #Project Schematics
-SCHEMATICS = headstagebreakout.sch hidden-magic.sch
+SCHEMATICS = concept.sch
 #Project Netlists
 NETLISTS = $(NAME).net
 #Project SPICE Simulation Data
