@@ -1,0 +1,30 @@
+gEDA/gschem version 1.4.0.20080127
+gEDA/gschem comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Read system-gafrc file [/home/fosse/Programs/geda-1.4.0/share/gEDA/system-gafrc]
+Did not find optional ~/.gEDA/gafrc file [/home/fosse/.gEDA/gafrc]
+Did not find optional local gafrc file [/home/fosse/Documents/projects/chamber heat/schematics/gafrc]
+Read system-gschemrc file [/home/fosse/Programs/geda-1.4.0/share/gEDA/system-gschemrc]
+Did not find optional ~/.gEDA/gschemrc file [/home/fosse/.gEDA/gschemrc]
+Read local gschemrc file [/home/fosse/Documents/projects/chamber heat/schematics/gschemrc]
+Read init scm file [/home/fosse/Programs/geda-1.4.0/share/gEDA/scheme/gschem.scm]
+Loading schematic [/home/fosse/Documents/projects/chamber heat/schematics/EPL2009_09_28-v2.sch]
+Did not find specified gafrc file [/home/fosse/Documents/projects/chamber heat/schematics/gafrc]
+Found a zero width/height box [ B -1221387717 -1079779656 0 -1220444172 -1221364646 ]
+Found an invalid color [ Built into Heater
+ ]
+Setting color to WHITE
+Found an invalid whichend on a pin (reseting to zero): -1220445440
+Found an invalid color [ Power In
+ ]
+Setting color to WHITE
+Found an invalid whichend on a pin (reseting to zero): -1220445440
+Found an invalid color [ Power In
+ ]
+Setting color to WHITE
+Found an invalid color [ LITTLE GUESS WORK.
+ ]
+Setting color to WHITE
+More than one component found with name [switch-spdt-2.sym]
